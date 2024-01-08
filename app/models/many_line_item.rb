@@ -1,0 +1,2 @@
+class ManyLineItem < ApplicationRecord
+end
