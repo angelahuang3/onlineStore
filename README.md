@@ -3,7 +3,7 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-1. run rails db:seed to put data into database
+1. run rails db:seed to put data into the database
 2. run rails db:migrate to manage changes in the database schema
 3. run rails server to start the server
 
